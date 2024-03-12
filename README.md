@@ -1,4 +1,4 @@
-# My IBM Applied Data Science Capstone Project
+# 🚀 My IBM Applied Data Science Capstone Project 🚀
 
 Welcome to the culmination of my journey through the IBM Data Science Professional Certificate on Coursera. In this project, I acted as a data scientist hired by Space Y (a competitor company to Space X).
 
